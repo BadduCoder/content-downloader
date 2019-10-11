@@ -10,7 +10,7 @@ bulk!
 .. figure:: https://media.giphy.com/media/3oKIPlt7APHqWuVl3q/giphy.gif
    :alt: 
 
-.. figure:: https://media.giphy.com/media/xUPGcIvGpH3KvEmlnG/giphy.gif
+.. figure:: https://media.giphy.com/media/l0IynnAvFu9uZpYas/giphy.gif
    :alt: 
 
 Features
